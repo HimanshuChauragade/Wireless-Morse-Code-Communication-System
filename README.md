@@ -73,17 +73,6 @@ Morse code is a communication method that uses short and long signals </br>
 
 </div>
 
-### ⚙️ Circuit Without I2C Module
-<div align="center">
-  <img width="600" src="https://github.com/user-attachments/assets/19b03607-b11f-40f9-a3b7-f9d050a86c02" /> </br>
-</div>
-
-<div align="center">
-  <img width="600" src="https://github.com/user-attachments/assets/8a280b44-5ade-4f2b-bb15-6e0f181de8b4" /> </br>
-</div>
-
-##
-
 ### ⚙️ Circuit With I2C Module
 <div align="center">
   <img width="600" src="https://github.com/user-attachments/assets/8af8039a-6693-4ba1-af66-8036a8560465" /> </br>
@@ -95,11 +84,22 @@ Morse code is a communication method that uses short and long signals </br>
 
 ##
 
+### ⚙️ Circuit Without I2C Module
+<div align="center">
+  <img width="600" src="https://github.com/user-attachments/assets/19b03607-b11f-40f9-a3b7-f9d050a86c02" /> </br>
+</div>
+
+<div align="center">
+  <img width="600" src="https://github.com/user-attachments/assets/8a280b44-5ade-4f2b-bb15-6e0f181de8b4" /> </br>
+</div>
+
+##
+
 ### 🔮🌱 Future Improvements
-- Add support for multi-node communication (beyond 2 devices)  
-- Implement error-checking for more reliable transmission  
+- Make a 3D printed portable version with rechargable Li-Polymer battery
 - Add buzzer/vibration feedback for Morse input  
-- Make a portable version with battery power
+- Add support for mesh (multi-node) communication (multiple devices)  
+- Implement error-checking for more reliable transmission  
 
 
 ## 🤝 Contributing
