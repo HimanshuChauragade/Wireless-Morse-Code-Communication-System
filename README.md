@@ -25,6 +25,13 @@ Morse code is a communication method that uses short and long signals </br>
   <img width="600" src="https://github.com/HimanshuChauragade/Wireless-Morse-Code-Communication-System/blob/86382435ac77e1a4fb18aa0ceb3adcf754e91416/Reference_Images/Demo.jpg" />  
   <p><i>Prototype showing wireless Morse code transmission</i></p>
 
+<a href="https://youtube.com/shorts/c4RS-gCCu9A">
+  <img src="https://img.youtube.com/vi/c4RS-gCCu9A/hqdefault.jpg" 
+       alt="Watch the video" 
+       width="600"/>
+</a>
+
+
   <img width="600" src="https://github.com/HimanshuChauragade/Wireless-Morse-Code-Communication-System/blob/86382435ac77e1a4fb18aa0ceb3adcf754e91416/Reference_Images/AS.jpeg" />  
   <p><i>System in action with LCD display</i></p>
 </div>
