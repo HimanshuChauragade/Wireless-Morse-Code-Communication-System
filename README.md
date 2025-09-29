@@ -22,18 +22,28 @@ Morse code is a communication method that uses short and long signals </br>
 </br>
 
 <div align="center">
-  <img width="600" src="https://github.com/HimanshuChauragade/Wireless-Morse-Code-Communication-System/blob/86382435ac77e1a4fb18aa0ceb3adcf754e91416/Reference_Images/Demo.jpg" />  
+  <img width="1200" src="https://github.com/HimanshuChauragade/Wireless-Morse-Code-Communication-System/blob/86382435ac77e1a4fb18aa0ceb3adcf754e91416/Reference_Images/Demo.jpg" />  
   <p><i>Prototype showing wireless Morse code transmission</i></p>
-
+  </div>
+  
+  ##
+  
+<div align="center">
+  <table>
+    <tr>
+<th>
 <a href="https://youtube.com/shorts/c4RS-gCCu9A">
-  <img src="https://img.youtube.com/vi/c4RS-gCCu9A/hqdefault.jpg" 
+  <img  src="https://img.youtube.com/vi/c4RS-gCCu9A/hqdefault.jpg" 
        alt="Watch the video" 
-       width="600"/>
+       width="600" />
 </a>
-
-
+</th>
+<th>
   <img width="600" src="https://github.com/HimanshuChauragade/Wireless-Morse-Code-Communication-System/blob/86382435ac77e1a4fb18aa0ceb3adcf754e91416/Reference_Images/AS.jpeg" />  
   <p><i>System in action with LCD display</i></p>
+  </th>
+    </tr>
+  </table>
 </div>
 
 ##
@@ -82,22 +92,24 @@ Morse code is a communication method that uses short and long signals </br>
 
 ### ⚙️ Circuit With I2C Module
 <div align="center">
-  <img width="600" src="https://github.com/user-attachments/assets/8af8039a-6693-4ba1-af66-8036a8560465" /> </br>
-</div>
-
-<div align="center">
-  <img width="600" src="https://github.com/user-attachments/assets/02c909f3-f440-43bd-9ec4-8b776813b809" /> </br>
+  <table>
+    <tr>
+    <th><img width="600" src="https://github.com/user-attachments/assets/8af8039a-6693-4ba1-af66-8036a8560465" /> </th>
+    <th><img width="600" src="https://github.com/user-attachments/assets/02c909f3-f440-43bd-9ec4-8b776813b809" /> </th>
+    </tr>
+  </table>
 </div>
 
 ##
 
 ### ⚙️ Circuit Without I2C Module
 <div align="center">
-  <img width="600" src="https://github.com/user-attachments/assets/19b03607-b11f-40f9-a3b7-f9d050a86c02" /> </br>
-</div>
-
-<div align="center">
-  <img width="600" src="https://github.com/user-attachments/assets/8a280b44-5ade-4f2b-bb15-6e0f181de8b4" /> </br>
+<table>
+<tr>
+   <th><img width="600" src="https://github.com/user-attachments/assets/19b03607-b11f-40f9-a3b7-f9d050a86c02" /> </br> </th>
+   <th><img width="600" src="https://github.com/user-attachments/assets/8a280b44-5ade-4f2b-bb15-6e0f181de8b4" /> </br> </th>
+    </tr>
+  </table>
 </div>
 
 ##
